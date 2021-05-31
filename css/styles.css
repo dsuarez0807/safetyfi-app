@@ -1,0 +1,196 @@
+* {
+    Margin: 0px;
+    padding: 0px;
+}
+
+
+.navInfo {
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    color: #09005D;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Mont-HeavyDEMO';
+    font-size: 45px;
+    color: #4F52FF;
+}
+
+h2 {
+    font-family: 'Mont-HeavyDEMO';
+    font-size: 40px;
+    color: #4F52FF;
+}
+
+h3 {
+    font-family: 'Mont-HeavyDEMO';
+    font-size: 32px;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+h4 {
+    font-family: 'Mont-HeavyDEMO';
+    font-size: 32px;
+    color: #4F52FF;
+    text-align: center;
+
+}
+
+.paragraph-l {
+    font-family: 'Questrial', sans-serif;
+    color: #09005D;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.paragraphCard {
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: 'Questrial', sans-serif;
+    margin-bottom: 0 !important;
+    margin-left: 10px;
+}
+
+.separation {
+    margin-top: 100px;
+}
+
+.btn-safetify {
+    background-color: #4F52FF;
+    color: #DAE3FE;
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+    padding: 12px 42px 12px 42px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: none;
+}
+
+.--FW {
+    width: 100%;
+}
+
+.btn-safetify:hover {
+    background-color: #4042E2;
+    color: #FFFFFF;
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+    padding: 12px 42px 12px 42px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.categoryCard {
+    padding: 40px;
+    background-color: #4F52FF;
+    max-width: 450px;
+    height: 520px;
+    border-radius: 20px;
+    margin: auto;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.1);
+}
+
+.categoryItems {
+    padding-top: 30px;
+}
+
+.item {
+    margin-top: 10px;
+}
+
+.btn-card {
+    background-color: #FFFFFF;
+    color: #4F52FF;
+    font-family: 'Questrial', sans-serif;
+    font-size: 24px;
+    padding: 15px 45px 15px 45px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.bg-gray {
+    background-color: rgba(240, 240, 240, 0.47);
+}
+
+.date {
+    font-size: 60px;
+    color: #09005D;
+    font-family: 'Mont-HeavyDEMO';
+}
+
+.text-footer {
+    color: #09005D;
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+}
+
+.cardForm {
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.1);
+    max-width: 910px;
+    margin: auto;
+    padding: 105px 52px 52px 52px;
+    border-radius: 20px;
+}
+
+.select {
+    display: block;
+    width: 100%;
+    padding: 15px 20px 15px 20px;
+    font-family: 'Questrial', sans-serif;
+    color: #09005D;
+    background-color: rgba(233, 239, 253, 0.54);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    background-size: 16px 12px;
+    border: none;
+    appearance: none;
+    border-radius: 10px;
+}
+
+.labes-select {
+    font-family: 'Questrial', sans-serif;
+    color: #09005D;
+}
+
+.select:focus {
+    border-color: #4F52FF;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+}
+
+.divResumen {
+    margin-top: 20px auto 20px auto;
+    padding: 30px;
+    background-color: #4F52FF;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+
+.textoResumen {
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+.divResultado {
+    margin: auto;
+    padding: 20px;
+    background-color: #BDD0FB;
+    text-align: center;
+    font-family: 'Mont-HeavyDEMO';
+    border-radius: 10px;
+    color: #1A0F91;
+}
+
+.textoCotizacion {
+    font-family: 'Mont-HeavyDEMO';
+    color: #1A0F91;
+    font-size: 32px;
+
+}
